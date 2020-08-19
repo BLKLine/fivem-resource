@@ -1,8 +1,0 @@
-{
-    "compilerOptions": {
-        "sourceMap": true
-    },
-    "extends": "@tsconfig/svelte/tsconfig.json",
-    "include": ["src/html/*"],
-    "exclude": ["node_modules/*", "__sapper__/*", "public/*"]
-}
