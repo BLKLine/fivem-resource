@@ -38,7 +38,7 @@ const client = {
                 test: /\.tsx?$/,
                 loader: "ts-loader",
                 options: {
-                    configFile: "tsconfig.scripts.json",
+                    configFile: "tsconfig.json",
                 },
             },
         ],
