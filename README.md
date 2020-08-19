@@ -1,5 +1,11 @@
 # FiveM Resource
 
+## Installation
+
+```bash
+npx degit blkline/fivem-resource my-resource
+```
+
 ## Description
 
 A FiveM typescript resource
