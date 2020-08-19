@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es6",
+        "noImplicitAny": false,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "dist",
+        "baseUrl": ".",
+        "types": ["@citizenfx/server", "@citizenfx/client", "@types/node"],
+        "paths": {
+            "*": ["node_modules/*"]
+        }
+    },
+    "include": ["src/client/*", "src/server/*"]
+}

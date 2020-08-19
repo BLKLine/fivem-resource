@@ -1,1 +1,0 @@
-# fivem-resource
